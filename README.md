@@ -11,4 +11,4 @@ Hi there!
  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustov7" /></a>
 </p>
    
-![](https://komarev.com/ghpvc/?username=thaysresende)
+![](https://komarev.com/ghpvc/?username=augustov7)
